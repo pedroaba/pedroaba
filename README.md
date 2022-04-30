@@ -35,5 +35,5 @@
 
 ## Linguagens mais usadas nos meus repositórios
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Augusto-Barbosa-Aparecido&langs_count=30)](https://github.com/Pedro-Augusto-Barbosa-Aparecido/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Augusto-Barbosa-Aparecido&langs_count=5)](https://github.com/Pedro-Augusto-Barbosa-Aparecido/github-readme-stats)
 

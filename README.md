@@ -3,6 +3,7 @@
 ### Contatos 
   - Linkeding: https://www.linkedin.com/in/pedro-augusto-195247217/
   - Email: pedroaugusto007augustobarbosa@gmail.com
+  - WhatsApp: +55 (35) 99915-7614
 
 ![Pedro-Augusto-Barbosa-Aparecido GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Augusto-Barbosa-Aparecido&show_icons=true&theme=radical)
 

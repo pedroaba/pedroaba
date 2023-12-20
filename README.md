@@ -5,7 +5,7 @@
   - Email: pedroaugusto007augustobarbosa@gmail.com
   - WhatsApp: +55 (35) 99915-7614
 
-![Pedro-Augusto-Barbosa-Aparecido GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Augusto-Barbosa-Aparecido&show_icons=true&theme=radical)
+![Pedro-Augusto-Barbosa-Aparecido GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroaba&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -33,5 +33,5 @@
 
 ## Linguagens mais usadas nos meus repositórios
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Augusto-Barbosa-Aparecido&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroaba&layout=compact"/>
 

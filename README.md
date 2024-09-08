@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Pedro Augusto Barbosa Aparecido 🖐️
 
 ### Contatos 
-  - Linkeding: https://www.linkedin.com/in/pedro-augusto-195247217/
+  - Linkeding: https://www.linkedin.com/in/pedroaba/
   - Email: pedroaugusto007augustobarbosa@gmail.com
   - WhatsApp: +55 (35) 99915-7614
 

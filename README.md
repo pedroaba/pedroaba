@@ -1,37 +1,70 @@
-## Olá! Eu sou o Pedro Augusto Barbosa Aparecido 🖐️
+# Pedro Augusto | Desenvolvedor Full Stack
 
-### Contatos 
-  - Linkeding: https://www.linkedin.com/in/pedroaba/
-  - Email: pedroaugusto007augustobarbosa@gmail.com
-  - WhatsApp: +55 (35) 99915-7614
+## 💻 Tech Stack & Expertise
 
-![Pedro-Augusto-Barbosa-Aparecido GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroaba&show_icons=true&theme=radical)
+**Frontend:** React, Next.js, TypeScript, HTML5, CSS3, JavaScript  
+**Backend:** Node.js, Express, .NET Core, C#  
+**Mobile:** Kotlin, React Native  
+**Desktop:** PyQt, Tauri, Electron  
+**Databases:** SQL, NoSQL  
+**DevOps:** GitHub Actions, CI/CD, Webhooks  
+**Languages:** TypeScript, Python, Kotlin, Java, C#, Rust
 
-## Tecnologias que eu uso no meu dia
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <br><br>
-  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit" />
-  <img align="center" alt="elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br><br>
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</div><br/>
+## 🔍 Perfil Técnico
 
-## Linguagens mais usadas nos meus repositórios
+Engenheiro de Software com experiência em desenvolvimento full stack, focado em criar soluções eficientes e escaláveis. Minha abordagem combina conhecimento técnico sólido com boas práticas de engenharia de software, incluindo Clean Code, SOLID, Design Patterns e arquiteturas modernas.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroaba&layout=compact"/>
+---
 
+## 🚀 Projetos Técnicos Relevantes
+
+### Desenvolvimento Web & APIs
+- [**linear-automation-webhook**](https://github.com/pedroaba/linear-automation-webhook): Automação de geração de relatórios via webhooks com TypeScript
+- [**black-hole-storage**](https://github.com/pedroaba/black-hole-storage): Solução de armazenamento em nuvem similar ao OneDrive/Google Drive
+- [**next-saas-rbac**](https://github.com/pedroaba/next-saas-rbac): Implementação de controle de acesso baseado em funções (RBAC) com Next.js
+
+### Aplicações Desktop & Ferramentas
+- [**taurius-ytd**](https://github.com/pedroaba/taurius-ytd): Downloader de vídeos com interface moderna usando TypeScript
+- [**black-hole-organizer**](https://github.com/pedroaba/black-hole-organizer): Ferramenta de organização de arquivos com algoritmos inteligentes em Python
+- [**taurius-builder-gui**](https://github.com/pedroaba/taurius-builder-gui): GUI Builder para aplicações Python
+
+### Mobile & Cross-platform
+- [**coin-converter-mobile**](https://github.com/pedroaba/coin-converter-mobile): Aplicativo de conversão de moedas desenvolvido em Kotlin
+- [**ignite-gym-rn**](https://github.com/pedroaba/ignite-gym-rn): Aplicativo de academia com React Native
+- [**doom-fire-with-nextjs**](https://github.com/pedroaba/doom-fire-with-nextjs): Implementação do algoritmo de fogo do Doom com Next.js
+
+### Arquitetura & Padrões
+- [**workshop-padrao-de-projeto**](https://github.com/pedroaba/workshop-padrao-de-projeto): Demonstração prática de padrões de projeto e boas práticas
+- [**CashFlow**](https://github.com/pedroaba/CashFlow): Aplicação financeira com arquitetura limpa em C#
+- [**TaskManagement**](https://github.com/pedroaba/TaskManagement): Sistema de gerenciamento de tarefas com padrões SOLID
+
+---
+
+## 🔧 Competências Técnicas
+
+- **Arquitetura de Software:** Clean Architecture, Microserviços, API RESTful
+- **Frontend:** SPA, SSR, SSG, CSR, Componentes Reutilizáveis, Styled Components, Tailwind CSS
+- **Backend:** API Design, Autenticação/Autorização, Middlewares, ORM
+- **DevOps:** CI/CD, Automação, Containerização
+- **Qualidade:** TDD, Testes Unitários, Testes de Integração, Code Review
+- **Metodologias:** Agile, Scrum, Kanban
+
+---
+
+## 📚 Formação
+
+- Engenharia de Software - Inatel (em andamento)
+- Técnico em Eletrônica com ênfase em Automação Industrial - Escola Técnica de Eletrônica Francisco Moreira Costa
+
+---
+
+## 📫 Contato Profissional
+
+[LinkedIn](https://www.linkedin.com/in/pedro-augusto-barbosa-aparecido-195247217/)  
+[GitHub](https://github.com/pedroaba)
+
+---
+
+Este README destaca minhas habilidades técnicas e projetos mais relevantes, demonstrando minha capacidade de trabalhar com diversas tecnologias e implementar soluções complexas. Estou sempre em busca de novos desafios que me permitam aplicar e expandir meu conhecimento técnico.
